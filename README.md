@@ -4,3 +4,4 @@
 # ManualTestingProjects
 # ManualTestingProjects
 # ManualTestingProjects
+# softwareTestingProjects
