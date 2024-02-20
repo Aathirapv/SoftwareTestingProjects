@@ -1,3 +1,4 @@
 # SoftwareTestingProjects
 # ManualTestingProjects
 # SoftwareTestingProjects
+# ManualTestingProjects
